@@ -1,3 +1,7 @@
+This is a simple Tic-Tac-Toe game created using React. Super simple. 
+You can also find the tutorial for creating this tic-tac-toe [Here](https://react.dev/learn/tutorial-tic-tac-toe#)
+
+---------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
